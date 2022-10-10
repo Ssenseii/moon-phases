@@ -1,5 +1,5 @@
 import "./App.css";
-import MyPDF from "./book/MoonPhases.pdf";
+import MyPDF from "./book/MoonPhasesAlpha.pdf";
 
 function App() {
   return (
